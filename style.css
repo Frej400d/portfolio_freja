@@ -240,7 +240,7 @@ footer {
 
   .box_1 {
     margin-top: 8em;
-    height: 35vh;
+    height: 30vh;
     width: 70vw;
   }
 
@@ -254,11 +254,13 @@ footer {
   } */
 
   .tekst_1 {
-    margin-top: 13em;
+    margin-top: 12em;
+    margin-right: 5em;
   }
   .tekst_2 {
     margin-top: 11em;
     margin-left: 2em;
+    margin-right: 1em;
   }
 
   #om_mig {

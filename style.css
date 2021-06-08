@@ -44,12 +44,10 @@ li {
 }
 
 a {
-  font-family: "Yanone Kaffeesatz", sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-size: 1.7rem;
   text-decoration: none;
-  font-weight: 700;
   color: #240915;
-  text-shadow: 2px 2px #fddb9e;
   margin: 1.5rem;
   margin-left: 0;
 }
@@ -108,7 +106,7 @@ footer {
   }
 
   a {
-    font-size: 2.6rem;
+    font-size: 2rem;
     padding: 1em;
   }
 }

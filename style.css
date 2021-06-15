@@ -50,6 +50,7 @@ header {
 
 li {
   list-style-type: none;
+  margin: 0.4em;
 }
 
 #menu {
@@ -57,7 +58,7 @@ li {
   transition: transform 0.3s;
   transform-origin: top left;
   margin: 0;
-  padding: 2.5em;
+  padding: 2em;
   justify-content: flex-start;
 }
 

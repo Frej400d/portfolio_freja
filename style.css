@@ -60,7 +60,6 @@ a {
   font-family: "Montserrat", sans-serif;
   font-size: 1.3rem;
   text-decoration: none;
-  font-weight: 200;
   color: #240915;
   margin: 0.5rem;
   margin-left: 0;
@@ -170,7 +169,13 @@ footer {
 
 #portfolio h3 {
   font-family: "Yanone Kaffeesatz", sans-serif;
-  font-size: 2rem;
+  font-size: 2.5rem;
+  color: #240915;
+}
+
+#portfolio h4 {
+  font-family: "Yanone Kaffeesatz", sans-serif;
+  font-size: 1.8rem;
   color: #240915;
 }
 
@@ -184,7 +189,10 @@ footer {
   color: #ffffff;
 }
 
-#second_section {
+#second_section,
+#third_section,
+#fourth_section,
+#fifth_section {
   width: 95%;
   margin-left: auto;
   margin-right: auto;
@@ -195,13 +203,12 @@ footer {
   background-color: #fed2ce;
   text-align: center;
   padding: 1.5vw;
-}
-.img_col {
-  width: 100%;
+  margin-top: 2vw;
+  margin-bottom: 2vw;
 }
 
-.img_col img {
-  border: 0.2em solid #240915;
+.img_style {
+  border: 0.3em solid #240915;
   background-color: #ffffff;
   padding: 0.5em;
 }
@@ -289,6 +296,7 @@ footer {
     height: 27vh;
     width: 100vw;
   }
+  /* Portfolio */
 }
 
 @media (min-width: 1300px) {

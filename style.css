@@ -19,13 +19,13 @@ img {
 }
 
 h2 {
-  font-family: "Odibee Sans", cursive;
+  font-family: "Teko", sans-serif;
   font-size: 3rem;
   color: #240915;
 }
 
 h3 {
-  font-family: "Yanone Kaffeesatz", sans-serif;
+  font-family: "Teko", sans-serif;
   font-size: 1.5rem;
   color: #ffffff;
 }
@@ -179,14 +179,14 @@ footer {
 }
 
 #portfolio h3 {
-  font-family: "Yanone Kaffeesatz", sans-serif;
-  font-size: 2.5rem;
+  font-family: "Teko", sans-serif;
+  font-size: 2.4rem;
   color: #240915;
 }
 
 #portfolio h4 {
   font-family: "Yanone Kaffeesatz", sans-serif;
-  font-size: 1.8rem;
+  font-size: 1.7rem;
   color: #240915;
   margin-bottom: 0.5em;
   margin-left: 0.5em;

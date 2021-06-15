@@ -97,6 +97,13 @@ a:hover {
   background-position: 20% 10%;
 }
 
+#forside section h3 {
+  grid-row: 3/4;
+  margin-top: 7em;
+  margin-left: 1em;
+  text-align: left;
+}
+
 footer {
   padding: 1em;
   text-align: center;
@@ -207,6 +214,8 @@ footer {
   display: inline-flex;
   background-color: #fed2ce;
   border: 0.2em solid #240915;
+  margin-top: -1em;
+  margin-left: 1em;
 }
 
 #links {

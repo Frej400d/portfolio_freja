@@ -245,6 +245,10 @@ footer {
   padding: 1.5vw;
   margin-top: 1.6vw;
 }
+.tekst_col_2,
+.tekst_col_3 {
+  background-color: #fed2ce;
+}
 
 .img_style {
   border: 0.3em solid #240915;
